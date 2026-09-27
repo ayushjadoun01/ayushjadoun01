@@ -1,60 +1,43 @@
-Hi, I'm Ayush Jadoun 👋
-Building Intelligent Solutions with AI 🤖
+<h1 align="center">Hi 👋, I'm Ayush Jadoun</h1>
+<h3 align="center">Exploring Patterns. Building Solutions.</h3>
 
-I'm an AI Developer passionate about building practical and intelligent applications using modern AI technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+%7C+MCA+Student;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;From+Data+Choas+to+Clarity" />
+</p>
 
-🤖 Working with Generative AI, LLMs & Machine Learning
+---
 
-🐍 Building AI applications with Python
+🎓 **Pursuing BCA** | **Currently Learning AI ENGINEER**  
+🚀 Focused on building real-world projects   
+📚 Always learning. Always building. Always improving.
 
-🧠 Exploring RAG, AI Agents & LLM-powered applications
+---
 
-🚀 Turning ideas into real-world AI solutions
+## 🛠 Tools & Technologies
 
-📚 Continuously learning and experimenting with emerging AI technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
-🛠️ Tools & Technologies
+---
 
-Languages & Frameworks
 
-Python • SQL • FastAPI • Streamlit
 
-AI & Machine Learning
+## 📫 Connect With Me
 
-Machine Learning • Generative AI • LLMs • RAG • AI Agents
+<p align="center">
+  <a href="https://linkedin.com/in/ayushjadoun" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Tools & Platforms
+---
 
-Git • GitHub • Jupyter • VS Code
 
-🚀 What I'm Working On
+ 
+</p>
 
-Building AI-powered applications
 
-Exploring LLMs and Generative AI
 
-Developing RAG-based systems
-
-Experimenting with AI agents and automation
-
-Creating projects that solve real-world problems
-
-📌 Featured Projects
-
-Here you'll find projects related to:
-
-🤖 Artificial Intelligence
-
-🧠 Machine Learning
-
-🔗 LLM & RAG Applications
-
-⚡ AI Automation
-
-📊 Data & Analytics
-
-🤝 Connect With Me
-
-I'm always interested in connecting with fellow developers, AI enthusiasts, and people building interesting things with technology.
-
-Let's build something intelligent together. 🚀
