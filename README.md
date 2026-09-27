@@ -2,7 +2,7 @@
 <h3 align="center">Exploring Patterns. Building Solutions.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Aspiring+AI+Developer+%7C+BCA+Student;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;From+Data+Choas+to+Clarity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Aspiring+AI+Engineer+%7C+BCA+Student;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;From+Data+Choas+to+Clarity" />
 </p>
 
 ---
